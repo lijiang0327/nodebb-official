@@ -1,0 +1,10 @@
+.gitignore--
+/public/uploads/
+/public/templates/
+config.json
+pidfile
+/public/acp.min.js
+/public/nodebb.min.js
+/public/admin.css
+/public/stylesheet.css
+
